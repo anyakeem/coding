@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "fonts/PlayfairDisplayRegular.ttf";
+    src: url("../fonts/PlayfairDisplayRegular.ttf") format("truetype");
+    font-style: regular ;
+    font-weight: 200;
+}
+
+
+p{
+    font-family: "PlayfairDisplay-MediumItalic";
+    font-style: italic;
+}
+
+.kitty{
+    color: blueviolet;
+    /* color: pink; */
+    
+}
+
+.house{
+    color: blue;
+    /*color: blue; */
+}
+
+p{
+    font-family: 'Playfair Display', serif;
+    color: blue;
+}
+
+h1{ font-family: 'Playfair Display', serif;
+    color: blue;
+   
+}
+/*Селектор по типу элемента*/
+
+#dom{
+    font-size: 34px;
+}
+/*Селектор по индентификатору*/
+
+ul li {
+    color: blueviolet;
+    font-size: larger;
+
+}
+
+.s1 {
+    font-size: 50px;
+}
+
